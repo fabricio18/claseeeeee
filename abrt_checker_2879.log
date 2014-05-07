@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method tarea2.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "}", { expected after this token
+
+	at tarea2.main(tarea2.java:12) [file:/home/alumno/workspace/fab%20project/bin/tarea2.class]

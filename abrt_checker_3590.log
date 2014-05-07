@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method carlosfabclass.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	sytem cannot be resolved
+
+	at carlosfabclass.main(carlosfabclass.java:10) [file:/home/alumno/workspace/fab%20project/bin/carlosfabclass.class]

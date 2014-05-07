@@ -1,0 +1,4 @@
+Uncaught java.lang.Error exception in thread "main" in a method variables.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at variables.main(variables.java:4) [file:/home/alumno/workspace/fab%20project/bin/variables.class]

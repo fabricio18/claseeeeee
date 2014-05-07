@@ -1,0 +1,7 @@
+Uncaught java.lang.Error exception in thread "main" in a method TF.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	b cannot be resolved to a variable
+	b cannot be resolved to a variable
+	Syntax error, insert ";" to complete BlockStatements
+
+	at TF.main(TF.java:6) [file:/home/alumno/workspace/fab%20project/bin/TF.class]
